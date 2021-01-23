@@ -1,2 +1,2 @@
-# VIRTUAL-PET2
-VIRTUAL-PET2
+# virtual-pet-1.0
+virtual pet 1.0
